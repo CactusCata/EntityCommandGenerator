@@ -10,7 +10,7 @@ public class EntityCommandGenerator extends SmartApplicationBox {
 	}
 
 	public static void main(String[] args) {
-
+  
 	}
 
 	@Override
